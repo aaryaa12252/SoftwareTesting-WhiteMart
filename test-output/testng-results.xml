@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-16T20:10:34 IST" name="Default suite" finished-at="2024-04-16T20:13:21 IST" duration-ms="167047">
+    <groups>
+    </groups>
+    <test started-at="2024-04-16T20:10:34 IST" name="Default test" finished-at="2024-04-16T20:13:21 IST" duration-ms="167047">
+      <class name="tests.whitemarttests">
+        <test-method is-config="true" signature="urlsetup()[pri:0, instance:tests.whitemarttests@31304f14]" started-at="2024-04-16T20:10:34 IST" name="urlsetup" finished-at="2024-04-16T20:10:59 IST" duration-ms="25793" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- urlsetup -->
+        <test-method signature="methodcalling()[pri:0, instance:tests.whitemarttests@31304f14]" started-at="2024-04-16T20:11:00 IST" name="methodcalling" finished-at="2024-04-16T20:13:20 IST" duration-ms="139342" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodcalling -->
+        <test-method is-config="true" signature="closing()[pri:0, instance:tests.whitemarttests@31304f14]" started-at="2024-04-16T20:13:20 IST" name="closing" finished-at="2024-04-16T20:13:21 IST" duration-ms="1017" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closing -->
+      </class> <!-- tests.whitemarttests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
