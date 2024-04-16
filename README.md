@@ -14,7 +14,7 @@ Apache POI
 
 
 Project Structure:
-src/main/java: Main source code of the framework.
+src/main/java: Main source code of the framework
 
 src/test/java: Test scripts.
 
