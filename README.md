@@ -1,5 +1,5 @@
 Introduction:
-This repository contains the automation framework for testing the Naukri job portal using Selenium with a Data-Driven approach.
+This repository contains the automation framework for testing the White Mart Website using Selenium Java.
 
 Prerequisites:
 Java Development Kit (JDK)
